@@ -1,0 +1,13 @@
+[
+  {
+    "version": "v1.0.0",
+    "date": "2026-10-08",
+    "changes": [
+      "Initial v1.0.0 release"
+    ],
+    "checksums": {
+      "breezi.dll": "bcabbfc82721e30f0e6fda8ee480539d98c2bde2210c0d97e005e52390b5bdf3",
+      "breezi.exe": "6aeb0949416b101fdac0ab9462b6c04907fa83b31b7eedc3c57b0ee487e07f38"
+    }
+  }
+]
