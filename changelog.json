@@ -1,5 +1,26 @@
 [
   {
+    "version": "v1.0.1",
+    "date": "2026-10-14",
+    "changes": [
+      "Infinite Stamina has been completely rewritten hopefully there will be no more bugs and charged attacks will no longer consume stamina.",
+      "Fixed an issue where the inline hotkey input key wasnt being saved.",
+      "Blocked Sheznaya cold modifier",
+      "Re-enabled entity debug.",
+      "Custom Teleport has been completely rewritten to use the new format. Also added two sorting methods.",
+      "Added Auto Teleport",
+      "Auto Puzzle (for now only first three region).",
+      "Fixed KillAura bugs and added a filter.",
+      "Rename locked chests when they are unlocked.",
+      "Added Raycast / Marker Teleport for ESP.",
+      "Added EntityTeleport"
+    ],
+    "checksums": {
+      "breezi.dll": "f42e272a0f617a91ea2bf717c046964fe19d8e11128262c0de40b91ac50a44f4",
+      "breezi.exe": "ae33f86ffab352d92684a9fa7dc16cadf5e4ba7fa96894133b78960701ae9475"
+    }
+  },
+  {
     "version": "v1.0.0",
     "date": "2026-10-08",
     "changes": [
