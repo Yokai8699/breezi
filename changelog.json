@@ -1,5 +1,31 @@
 [
   {
+    "version": "v1.0.2",
+    "date": "2026-10-25",
+    "changes": [
+      "Added more entities to the filter",
+      "Fixed AutoDestroy/Killaura bugs with shielded entities",
+      "Reworked Bypass — no more random disconnections",
+      "Reworked No Clip/Auto Destroy",
+      "Added Auto Challenge (automatically starts challenges)",
+      "Added Amber, Light Up Tile, Exploding Barrel, and Elemental Particle to Auto Puzzle",
+      "Added more modifiers to God Mode",
+      "Added Skip Special NPCs to Auto Choose Dialogue",
+      "Fixed ESP marker teleport issues",
+      "Injector now uses Manual Map",
+      "Added Claim All Achievements",
+      "Added a search field for features",
+      "Custom Teleport now supports custom files ([{\"x\": 0.0, \"y\": 0.0, \"z\": 0.0}, ...])",
+      "Added FPS, Active Features, and Notification overlays",
+      "Rewrote movement",
+      "Added experimental Auto Oculi"
+    ],
+    "checksums": {
+      "breezi.dll": "83c8601f25c67abc57a469f2618348998473639d89a570b54936ccf52932dad6",
+      "breezi.exe": "57021178c007928e60f60a34cb047185fe095846acbc95f89792752a97130f72"
+    }
+  },
+  {
     "version": "v1.0.1",
     "date": "2026-10-14",
     "changes": [
