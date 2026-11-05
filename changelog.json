@@ -1,5 +1,22 @@
 [
   {
+    "version": "v1.1.0",
+    "date": "2026-11-05",
+    "changes": [
+      "subtabs (double click tab)",
+      "multi column (can be disabled in settings)",
+      "ability to reorder feats (can be hidden in settings)",
+      "added auto cook",
+      "reimpliment AutoTreeFarm",
+      "OSREL_7.2.0",
+      "experimental auto abyss (disabled in this patch)"
+    ],
+    "checksums": {
+      "breezi.dll": "6c1277c0050eb2ffb652bded5b528e1b64e4c691b895249b31a8ccbd54cd0116",
+      "breezi.exe": "421dd8cf9aaa71bcaebb9be409462120d9af2820bea1b68439e1ab1a8e787d86"
+    }
+  },
+  {
     "version": "v1.0.2",
     "date": "2026-10-25",
     "changes": [
