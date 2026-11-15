@@ -1,5 +1,21 @@
 [
   {
+    "version": "v1.1.1",
+    "date": "2026-11-15",
+    "changes": [
+      "fixed issues regarding i-map, auto unlock tp",
+      "Buried Chest is now shown in esp, auto dug (AutoPuzzle)",
+      "Impl Custom Weather",
+      "Impl Freecam",
+      "Waypoints entity are no longer duplicated when remotely unlocked",
+      "ReImpl Icon Optimization"
+    ],
+    "checksums": {
+      "breezi.dll": "ac0d4ecfc5f6360285a92af7737bf9a17232268154e31a66d9c4631f631f0a22",
+      "breezi.exe": "e41d6620ada0a1f59f82ccf20e6708145a2bc1af040772467661ef6004d52dca"
+    }
+  },
+  {
     "version": "v1.1.0",
     "date": "2026-11-05",
     "changes": [
